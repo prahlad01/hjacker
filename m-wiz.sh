@@ -14,16 +14,9 @@ clear
 echo " "
 echo " "
 echo -e "$red
-                         ███╗   ███╗      ██╗    ██╗██╗███████╗
-                         ████╗ ████║      ██║    ██║██║╚══███╔╝
-                         ██╔████╔██║█████╗██║ █╗ ██║██║  ███╔╝ 
-                         ██║╚██╔╝██║╚════╝██║███╗██║██║ ███╔╝  
-                         ██║ ╚═╝ ██║      ╚███╔███╔╝██║███████╗
-                         ╚═╝     ╚═╝       ╚══╝╚══╝ ╚═╝╚══════╝ 
-                                                                v 1.1$rset"
 echo " "                                                          
-echo -e "$red                                   ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                              ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
+echo -e "$red                                   ▶ Coded by$grn Prahlad Shukla$red ◀$rset"
+echo -e "$red                              ⫸$ylo youtube.com/thecyberkiddie1$red ⫷$rset"
 echo " "
 echo " "
 echo -e "$pink                         >>>  [ click ENTER to continue ] <<<$rset"
@@ -64,27 +57,27 @@ echo " "
 echo -e "$grn                               Press$ylo ENTER$red to continue$rset"
 echo " "
 read hulke
-cd $HOME/m-wiz/min
+cd $HOME/hjacker/min
 echo " "
 echo -e "$ylo         To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                           Are you sure? Press$grn ENTER$red to exit$rset"
 read hulkee
-cd $HOME/m-wiz
-bash m-wiz.sh
+cd $HOME/hjacker
+bash hjacker.sh
 else
 bash metain.sh
 echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan                       click$grn ENTER$cyan to go back into m-wiz menu$rset"
+echo -e "$cyan                       click$grn ENTER$cyan to go back into hjacker menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/m-wiz
-bash m-wiz.sh ;;
+cd $HOME/hjacker
+bash hjacker.sh ;;
 
 2)echo " "
 echo " "
@@ -94,7 +87,7 @@ echo " "
 echo -e "$grn                                Press$ylo ENTER$grn to continue$rset"
 echo " "
 read nitro
-cd $HOME/m-wiz/mrp
+cd $HOME/hjacker/mrp
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
