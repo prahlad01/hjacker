@@ -10,6 +10,7 @@ hjacker is a bash based script which is officially made for metasploit-framework
 ### 📌 ***hjacker is available for***:
 
 * Termux
+* Kali Linux
 
 ### 📌 ***Installation and usage guide***:
 ```
