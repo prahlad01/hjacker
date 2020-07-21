@@ -45,7 +45,7 @@ echo -e "$ylo          Metasploit is installing and repairing...$rset"
 echo 
 echo -e "$grn        [ThIs MaY TaKe TiMe UpTo 30 MiNuTeS sO wAit]$rset"
 echo
-cd $HOME/m-wiz/min
+cd $HOME/hjacker/min
 sleep 8.0
 clear
 bash metanew.sh
