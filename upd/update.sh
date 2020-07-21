@@ -32,14 +32,14 @@ sleep 2.0
 clear
 echo " "
 echo " "
-echo -e "$grn                updating the m-wiz please wait$rset"
+echo -e "$grn                updating the hjacker please wait$rset"
 sleep 2.0
 cd $HOME
-rm -rf m-wiz
-git clone https://github.com/noob-hackers/m-wiz
+rm -rf hjacker
+git clone https://github.com/prahlad01/hjacker
 clear
 echo " "
-echo -e "$grn               m-wiz has been updated check it now...$rset"
+echo -e "$grn               hjacker has been updated check it now...$rset"
 sleep 3.0
 echo " "
 cd $HOME
