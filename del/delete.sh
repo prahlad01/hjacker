@@ -25,11 +25,11 @@ sleep 2.0
 echo " "
 echo " "
 cd $HOME
-rm -rf m-wiz
+rm -rf hjacker
 clear
 echo " "
 echo " "
-echo -e "$grn          Thank you for $red using m-wiz tool,$ylo have a nice day$rset"
+echo -e "$grn          Thank you for $red using hjacker tool,$ylo have a nice day$rset"
 sleep 3.0
 echo " "
 echo " "
