@@ -34,22 +34,22 @@ echo " "
 echo -e "$grn              Metasploit has been deleted successfully...$rset"
 echo " "
 echo " "
-echo -e "$ylo                 Returning back to m-wiz menu ....$rset"
+echo -e "$ylo                 Returning back to hjacker menu ....$rset"
 echo " "
 sleep 4.0
 cd $HOME
-cd m-wiz
-bash m-wiz.sh
+cd hjacker
+bash hjacker.sh
 else
 clear
 echo " "
 echo -e "$red             No metasploit has been installed to remove$rset" 
 echo " "
-echo -e "$grn                 Returning back to m-wiz menu ....$rset"
+echo -e "$grn                 Returning back to hjacker menu ....$rset"
 echo " "
 echo " "
 sleep 4.0
 cd $HOME
-cd m-wiz
-bash m-wiz.sh
+cd hjacker
+bash hjacker.sh
 fi
