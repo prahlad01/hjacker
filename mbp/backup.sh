@@ -84,7 +84,7 @@ echo -e "$ylo               Metasploit is not installed please install it$rset "
 sleep 3.0
 echo " "
 echo " "
-cd $HOME/m-wiz/mbp
+cd $HOME/hjacker/mbp
 bash opt.sh
 echo " "
 echo " "
