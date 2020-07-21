@@ -48,7 +48,7 @@ echo " "
 echo " "
 sleep 2.0
 cd $H0ME
-cd m-wiz
+cd hjacker
 cd min
 bash opti.sh 
 echo " "
