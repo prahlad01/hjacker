@@ -1,5 +1,5 @@
 #!/termux/data/data/bin/bash
-# script by nitro from (noob hackers) youtube channel
+# script by (Prahlad Shukla) youtube channel The Cyber Kiddie
 apt-get update -y
 apt-get upgrade -y
 pkg install python2 -y
