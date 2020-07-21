@@ -2,7 +2,7 @@
 echo " "
 echo " "
 cd $HOME
-cd m-wiz
-bash m-wiz.sh
+cd hjacker
+bash hjacker.sh
 echo " "
 echo " "
