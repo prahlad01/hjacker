@@ -1,3 +1,5 @@
+#code by Prhald Shukla 
+# Don't Change anything this restore code && Don't Copy without credits.
 #colour section
 red='\033[1;31m'
 rset='\033[0m'
