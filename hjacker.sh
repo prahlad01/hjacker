@@ -1,5 +1,5 @@
-#SCRIPT BY N17R0 DONT TRY TO COPY OR MODIFY 
-#M-WIZ TOOL FOR ALL METASPLOIT THINGS
+#SCRIPT BY Prahlad Shukla DONT TRY TO COPY OR MODIFY 
+#hjacker TOOL FOR ALL METASPLOIT THINGS
 #data/data/com.termux/files/usr/bin/bash
 #colours
 red='\033[1;31m'
@@ -11,19 +11,6 @@ cyan='\033[1;36m'
 pink='\033[1;35m'
 #coding section starts :)
 clear
-echo " "
-echo " "
-echo -e "$red
-                         ███╗   ███╗      ██╗    ██╗██╗███████╗
-                         ████╗ ████║      ██║    ██║██║╚══███╔╝
-                         ██╔████╔██║█████╗██║ █╗ ██║██║  ███╔╝ 
-                         ██║╚██╔╝██║╚════╝██║███╗██║██║ ███╔╝  
-                         ██║ ╚═╝ ██║      ╚███╔███╔╝██║███████╗
-                         ╚═╝     ╚═╝       ╚══╝╚══╝ ╚═╝╚══════╝ 
-                                                                v 1.1$rset"
-echo " "                                                          
-echo -e "$red                                   ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                              ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
 echo " "
 echo " "
 echo -e "$pink                         >>>  [ click ENTER to continue ] <<<$rset"
