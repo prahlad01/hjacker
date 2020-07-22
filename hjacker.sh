@@ -177,6 +177,7 @@ read kongg
 cd $HOME/hjacker
 bash hjacker.sh
 else
+cd old
 bash olddelete.sh
 echo " "
 echo " "
