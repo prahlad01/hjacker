@@ -52,4 +52,4 @@ sleep 4.0
 cd $HOME
 cd hjacker
 bash hjacker.sh
-fi
+
