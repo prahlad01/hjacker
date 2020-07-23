@@ -180,7 +180,7 @@ else
 bash olddelete.sh
 echo " "
 echo " "
-echo -e "$ylo ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
+echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
 echo -e "$cyan                        click$grn ENTER$cyan to go back into hjacker menu$rset"
 echo " "
