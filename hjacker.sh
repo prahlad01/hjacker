@@ -177,11 +177,10 @@ read kongg
 cd $HOME/hjacker
 bash hjacker.sh
 else
-cd old
 bash olddelete.sh
 echo " "
 echo " "
-echo -e "$grn ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
+echo -e "$ylo ＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜$rset"
 echo " "
 echo -e "$cyan                        click$grn ENTER$cyan to go back into hjacker menu$rset"
 echo " "
